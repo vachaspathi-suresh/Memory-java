@@ -1,3 +1,8 @@
+#custom
+/*bin
+bin/
+/*.settings
+.project
 # Compiled class file
 *.class
 
